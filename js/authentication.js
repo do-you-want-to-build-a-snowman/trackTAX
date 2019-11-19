@@ -66,5 +66,7 @@ function login(email, password) {
 
 // ฟังก์ชันยืนยันตัวตนด้วย google
 function authenGoogle() {
-    
+
 }
+
+// ฟังก์ชันลงชื่อออกจากระบบ
